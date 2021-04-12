@@ -1,0 +1,14 @@
+Create a database named "ueab"
+
+Update the database records if any want  "dbconfig.php" file
+
+Admin Login Details
+
+user: giatho@gmail.com
+pass: giatho
+
+
+Student : 
+
+user: mumbimaa@ueab.ac.ke
+pass: 1234

@@ -7,3 +7,18 @@ The project UEAB Student-Lecturer Evaluation System enables students to evaluate
 . The project will covers for only two module (students, administrative i.e. quality assurance, head of department). The administrative module will enable a valid administrator to login and perform the function of creating, and updating needed information. The student module on the other hand will allow a valid user to use his/her username and password to login and handle the evaluation. 
 The scope, entail developing a dynamic web application/site using PHP, CSS, HTML,JAVASCRIPT, JQUERY, BOOTSRAP,XAMPP and MYSQL that will be used to store information about students, staff and the entire administrative activities, and any other tools that will be needed to make the work look nice.
  
+
+Login Details
+
+Student: email: mumbi@ueab.ac.ke
+	 pass : 1234
+
+Admin :  email: gakobowasoweto@gmail.com
+	 pass : soweto
+
+Hod :    username : FNO0001
+	 password : mayaka
+
+Lecturer:username : 600omar34568
+	 password : 67d8ab
+
